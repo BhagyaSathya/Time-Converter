@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: "Open Sans";
+}
+
+.label1 {
+    color: white;
+}
+
+.head {
+    color: white;
+}
+
+
+.button {
+    width: 180px;
+}
+
+.input1 {
+    border-radius: 8px;
+
+}
+
+.last-container {
+    height: 10vh;
+    border-radius: 10px;
+    border-color: #ffffff;
+    font-size: 40px;
+}
+
+.input2 {
+    border-radius: 8px;
+}
